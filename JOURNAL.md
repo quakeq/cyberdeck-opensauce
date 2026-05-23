@@ -20,4 +20,6 @@ Today's Schematic and PCB Layout:
 
 Still need to figure out my key layout and to confirm that my battery routing makes sense.
 
+I also ordered my screens from PiHut, arriving Wednesday. (5/27/26)
+
 **Total time spent: 4h**
