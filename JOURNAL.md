@@ -7,7 +7,7 @@ I started out with looking at https://youtu.be/8WXpGTIbxlQ?si=HWInNqnCrlnGG9be t
 I finished my layout for the switches. Time to start working on the wireless aspect of the keyboard!
 The final idea is to have the keyboard be removable from the main body so that I can store RJ45 (Ethernet) cables and whatnot inside, so BT/wireless will be needed
 
-The requirement of wireless pushed me to the ESP32. I already have some lying around too which is nice.
+The requirement of wireless pushed me to the ESP32 as it has built in BT. I already have some lying around too which is nice.
 
 To figure out the battery, I looked at https://youtu.be/POPvclRAKOQ?si=WiUL5QYuJIJgOxCi and https://docs.google.com/viewerng/viewer?url=https://hacksterio.s3.amazonaws.com/uploads/attachments/1512547/schema_kicad_tj8aQFMW23.pdf
 The video was to figure out the recharging aspect of the keyboard, the second was to figure out how to actually get power from the battery.
