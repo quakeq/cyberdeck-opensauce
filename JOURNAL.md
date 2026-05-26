@@ -23,3 +23,24 @@ Still need to figure out my key layout and to confirm that my battery routing ma
 I also ordered my screens from PiHut, arriving Wednesday. (5/27/26)
 
 **Total time spent: 4h**
+
+
+
+# May 25th, 2026: Keyboard PCB + Screen Ordered
+
+I forgot to complete this journal the last two days, so this update is from the 23rd to the 25th
+
+I updated my fill zones for power to be larger since that's better for power transfer apparently. I made my top layer fully VOUT (battery power) and my bottom layer GND  for that reason. My other zones might need to be updated but from what I see they're fine for now.
+
+Images of power fill zones: 
+<img width="452" height="871" alt="2026-05-25--20:31:05" src="https://github.com/user-attachments/assets/b5273c38-a0bf-4984-92e1-fc3b06b9e400" />
+
+I also finished my layout and routing for the keys. I decided on an ortholinear layout since I want it to be as small as possible. I think there's optimizations that I can do to reduce the size of the keyboard but that's a problem for later.
+
+<img width="1344" height="665" alt="2026-05-25--20:26:37" src="https://github.com/user-attachments/assets/ff2ee7d5-5796-4973-a32d-d990626afeeb" />
+
+Todo: 
+1. Fix all the DRC issues that popped up
+2. Figure out where to place my delete key
+
+**Total time spent: 3h**
