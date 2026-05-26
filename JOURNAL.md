@@ -26,7 +26,7 @@ I also ordered my screens from PiHut, arriving Wednesday. (5/27/26)
 
 
 
-# May 25th, 2026: Keyboard PCB + Screen Ordered
+# May 25th, 2026: Almost done with keyboard layout!
 
 I forgot to complete this journal the last two days, so this update is from the 23rd to the 25th
 
