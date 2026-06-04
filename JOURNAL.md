@@ -44,3 +44,16 @@ Todo:
 2. Figure out where to place my delete key
 
 **Total time spent: 3h**
+
+# June 3rd, 2026: Done with keyboard layout (hopefully)
+
+I finally got around to finishing the keyboard (why does school exist?)
+
+I swapped out my esp32-D to the esp32-S3-mini since I saw that it was better for keyboards. I also ran DRC and fixed all the issues that popped up
+
+I also gave up having a delete key, my reasoning was to just go the macbook route and bind Fn+Backspace to be delete.
+
+Finished keyboard: !!!
+<img width="1394" height="621" alt="2026-06-03--17:48:57" src="https://github.com/user-attachments/assets/47f82b9f-2dab-4da6-93f8-139b3c5eee78" />
+
+**Total Time spent: 3h**
