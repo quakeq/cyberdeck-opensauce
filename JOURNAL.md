@@ -63,6 +63,8 @@ Finished keyboard: !!!
 
 We got our slides, got our screen, and so we can start working on the body of the actual deck! 
 
+Onshape Workspace: https://cad.onshape.com/documents/1a1af402c0db1dda2c82ecab/w/3b0ea689bfd63b2e225e5440/e/0cdd63c72fabe09441a14d1b?renderMode=0&uiState=6a2de976dc25a943f5df101f 
+
 I started with this inital design for the front back piece: 
 <img width="1463" height="844" alt="image" src="https://github.com/user-attachments/assets/dcfbc506-abdd-491f-aa0a-72338d362411" />
 
