@@ -53,7 +53,34 @@ I swapped out my esp32-D to the esp32-S3-mini since I saw that it was better for
 
 I also gave up having a delete key, my reasoning was to just go the macbook route and bind Fn+Backspace to be delete.
 
+
 Finished keyboard: !!!
 <img width="1394" height="621" alt="2026-06-03--17:48:57" src="https://github.com/user-attachments/assets/47f82b9f-2dab-4da6-93f8-139b3c5eee78" />
 
 **Total Time spent: 3h**
+
+# June 13th, 2026: Starting on cyberdeck body
+
+We got our slides, got our screen, and so we can start working on the body of the actual deck! 
+
+I started with this inital design for the front back piece: 
+<img width="1463" height="844" alt="image" src="https://github.com/user-attachments/assets/dcfbc506-abdd-491f-aa0a-72338d362411" />
+
+I 3d printed it out and I found that it was lacking in sizing, it was way too large to really fit any common box form factor. I also found that it would look super weird since I would have like 2.75 inches of bezel at the bottom... (yikes!)
+
+I thus redesigned to 1) have my casing dimensions in mind when designing and to also 2) have the bezel and appearance in mind as well.
+
+Case: https://www.amazon.com/HUL-Professional-Cosmetic-Storage-Organizer/dp/B0827NJYD8?crid=TFEA84E0KTJJ&dib=eyJ2IjoiMSJ9.rezswYNdOSCG4tvUGmV9THGGqj9KwbnlFh8JHkMdXXG_HBH_3PKOIiKCYXN25ncSaDlXAxxLfNM_vgZEuf_T-v0boXSunR4jvgFn7yRBBjeII85gzR19NqYnbnMHKiMMYzD54RaE-Eh5f0X8hKqalnKlCWZyKu4fVrwLMu0KxEh7S2sQMBUokrwRBAsoj8oHpT7cMTG2wajvNCv51wMBGX7T0xK30CXujbunYfgzJ9Y.Sq_qqtQDbFK2J7h-ktjYJibOdYvuLneK4R34tsnplCU&dib_tag=se&keywords=hard+case+box+10+x9&qid=1781391413&sprefix=hard+case+box+10+x9%2Caps%2C186&sr=8-4 
+
+(I didn't really want to go with the pure 3d print case as to me that doesn't really feel "cyberdecky")
+
+Redesign back panel v2:
+<img width="918" height="723" alt="image" src="https://github.com/user-attachments/assets/2fdb3598-d2a1-4229-9325-07e2a51a8f11" />
+
+PCB update:
+I was using my other laptop to design my pcb keyboard, and I was an freaking idiot as I didn't make any backups on my ssd for the pcb and I also didn't upload to github my gerbers AND I switched distros to arch from nixos since I couldn't install tooling on nixos because of packaging issues. TLDR; I LOST ALL OF MY PCB FILES :D
+
+**Total Time spent: 2h**
+
+
+
