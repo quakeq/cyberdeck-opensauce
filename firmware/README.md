@@ -1,0 +1,1 @@
+use uf2 to load the firmware, use Vial (https://get.vial.today/) to map your keys
