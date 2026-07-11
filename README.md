@@ -1,6 +1,9 @@
 # cyberdeck-opensauce
 repo for my cyberdeck project for hackclub opensauce. I made this because I wanted to make an useable cyberdeck that would be genuinely really nice to have daily.
 
+## Demo
+https://drive.google.com/file/d/1zyx6e2210Nebm2rjT3ZHg2T8rBJLfXjD/view?usp=sharing
+
 ## features
 - Storage for all your goodies
 - Custom Battery with 10 hr lifespan
