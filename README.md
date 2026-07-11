@@ -9,7 +9,7 @@ repo for my cyberdeck project for hackclub opensauce. I made this because I want
 - 10.1 inch touchscreen
 - 2 USB ports and 1 ethernet
 
-Some images:
+## Some images:
 
 <img width="885" height="854" alt="Screenshot 2026-07-10 231711" src="https://github.com/user-attachments/assets/7f6222ee-c415-4a2b-a337-06dd3487fb78" />
 
