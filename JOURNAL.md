@@ -84,5 +84,5 @@ I was using my other laptop to design my pcb keyboard, and I was an freaking idi
 
 **Total Time spent: 2h**
 
-
+# Continued on Stardance: https://stardance.hackclub.com/projects/20067
 
