@@ -12,11 +12,11 @@ https://drive.google.com/file/d/1zyx6e2210Nebm2rjT3ZHg2T8rBJLfXjD/view?usp=shari
 - 10.1 inch touchscreen
 - 2 USB ports and 1 ethernet
 
-## Some images:
+## Some images of the design and final product:
 
 
 
 
 <img width="750" height="1000" alt="20260709_115358" src="https://github.com/user-attachments/assets/a0b9cfe6-c525-45fa-b3f5-9d165db11866" />
-<img width="442" height="427" alt="Screenshot 2026-07-10 231711" src="https://github.com/user-attachments/assets/7f6222ee-c415-4a2b-a337-06dd3487fb78" />
-<img width="619" height="300" alt="image" src="https://github.com/user-attachments/assets/ced71108-4026-4ea5-9b51-7d10d0420d20" />
+<img width="884" height="854" alt="Screenshot 2026-07-10 231711" src="https://github.com/user-attachments/assets/7f6222ee-c415-4a2b-a337-06dd3487fb78" />
+<img width="1238" height="600" alt="image" src="https://github.com/user-attachments/assets/ced71108-4026-4ea5-9b51-7d10d0420d20" />
